@@ -1,0 +1,11 @@
+{
+  "name": "densecreations",
+  "displayName": "Dense Creations",
+  "author": "Txar",
+  "description": "[accent[]]\"dense\"[[]] as in [accent[]]\"stupid\"[[]].\nHopefully they're not though.",//\n\nThanks to [#20bd2d[]]ThePythonGuy3[[]] for some feedback and help on some sprites.",
+  "version": "1.0.0",
+  "main": "densecreations.DenseCreations",
+  "minGameVersion": "134",
+  "dependencies": [],
+  "hidden": false,
+}
